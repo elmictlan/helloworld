@@ -1,0 +1,14 @@
+{
+    "name": "elmictlan/helloworld",
+    "description": "Paquete de prueba para composer",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ricardo Rincón",
+            "email": "ricardomangore@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
