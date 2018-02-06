@@ -9,6 +9,6 @@
             "email": "ricardomangore@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
